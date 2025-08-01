@@ -26,6 +26,6 @@ Made with ❤️ by **Arnav Tomar**
 
 - 📧 [arnavtomar257@gmail.com](mailto:arnavtomar257@gmail.com)  
 - 🌐 [Portfolio Website]()  
-- 🐱 GitHub: [@arnavtomar]((https://github.com/sea-of-codes))
+- 🐱 GitHub: [@ArnavTomar](https://github.com/sea-of-codes)
 
 
